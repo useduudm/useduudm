@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
- <img width="500px" src="https://i.imgur.com/axioFVj.gif" align="center" alt="aboutme" />
+ <img width="500px" src="https://c-ssl.duitang.com/uploads/blog/202206/29/20220629231150_51a75.gif" align="center" alt="aboutme" />
  <h2 align="center">aboutme</h2>
  
 ### 🌱 Stats
