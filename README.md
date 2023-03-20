@@ -7,7 +7,7 @@ I'm developing my own CS:GO server now
 ### 🌱 Stats
 
 <a href="https://github.com/useduudm">
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=useduudm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /></a>
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/username=useduudm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /></a>
 
 <a href="https://github.com/useduudm">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=useduudm&layout=compact" />
