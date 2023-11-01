@@ -19,7 +19,7 @@ Noob developer
 ### 📫 Contact
 * <img src="https://telegram.org/favicon.ico" width="16" height="16" /> @i_dabidabi_cn_ezgameo
 * <img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" width="16" height="16" /> useduudm#0993
-* <img src="https://steamcommunity.com/favicon.ico" width="16" height="16" /> [蛇崩乃音](https://steamcommunity.com/id/p_ma_ru)
+* <img src="https://steamcommunity.com/favicon.ico" width="16" height="16" /> [我就爱喝芒果杨枝甘露](https://steamcommunity.com/id/p_ma_ru)
 * <img src="https://im.qq.com/favicon.ico" width="16" height="16" /> 467104919
 
 <!--
