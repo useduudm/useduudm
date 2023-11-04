@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm developing my own CS:GO server now
 <p align="center">
- <img width="500px" src="https://c-ssl.duitang.com/uploads/blog/202206/29/20220629231150_51a75.gif" align="center" alt="aboutme" />
+ <img width="500px" src="(https://github.com/useduudm/free-imgservefirmyself/assets/61588210/2125929a-cdd6-4d66-8383-7a887067ed7c)" align="center" alt="aboutme" />
  <h2 align="center">AShortIntroduction</h2>
  
 ### 🌱 Stats
