@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm developing my own CS:GO server now
 <p align="center">
- <img width="500px" src="![IMG_6455](https://github.com/useduudm/useduudm/assets/61588210/307c1fc8-8c3c-4beb-81ca-ca2723696ac1)
-" align="center" alt="aboutme" />
+ <img width="500px" src="https://github.com/useduudm/useduudm/assets/61588210/307c1fc8-8c3c-4beb-81ca-ca2723696ac1" align="center" alt="aboutme" />
  <h2 align="center">AShortIntroduction</h2>
  
 ### 🌱 Stats
